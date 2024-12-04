@@ -107,7 +107,7 @@ export default function AccountDrawer(props) {
         </ListItem> }
       </List>
       <div style={{width: drawerWidth-1, zIndex: 10, backgroundColor:'white', position:"fixed", bottom:0, textAlign:'center'}} className={classes.toolbar}>
-        <span style={{position:'absolute', bottom:'10px', left:'0', right:'0'}}>Connected to Mainnet - v2.0.0</span>
+        <span style={{position:'absolute', bottom:'10px', left:'0', right:'0'}}>Having issues? -> support@toniqlabs.com</span>
       </div>
     </div>
   );
